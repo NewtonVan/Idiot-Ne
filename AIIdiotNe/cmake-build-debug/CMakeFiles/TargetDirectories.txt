@@ -1,0 +1,3 @@
+D:/git/gitcode/c2019/level1/AIIdiotNe/cmake-build-debug/CMakeFiles/AIIdiotNe.dir
+D:/git/gitcode/c2019/level1/AIIdiotNe/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/git/gitcode/c2019/level1/AIIdiotNe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
